@@ -1,0 +1,1 @@
+This project introduce a way of using RAG systems to detect and correct errors in Wikipedia
